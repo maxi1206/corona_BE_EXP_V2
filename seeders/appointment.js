@@ -10,7 +10,7 @@ module.exports = {
      *   name: 'John Doe',
      *   isBetaMember: false
      * }], {});
-    */
+     */
 
 
     await queryInterface.bulkInsert('appointments', [{
@@ -89,7 +89,7 @@ module.exports = {
       {
         firstName: 'Hans',
         lastName: 'Franz',
-        email: 'geiler.typ@gmail.com',
+        email: 'geiler.typ@gmai.com',
         password: '1234',
         telNumber: '235346-346346',
         genderId: 1,
@@ -99,7 +99,7 @@ module.exports = {
       {
         firstName: 'Hans',
         lastName: 'Franz',
-        email: 'geiler.typ@gmail.com',
+        email: 'geiler.typ@gil.com',
         password: '1234',
         telNumber: '235346-346346',
         genderId: 1,

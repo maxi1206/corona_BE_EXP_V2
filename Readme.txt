@@ -17,4 +17,4 @@ Run Seeders
 npx sequelize-cli db:seed:all
 
 Run one Seeder
-npx sequelize db:seed --seed my_seeder_file.js
+npx sequelize db:seed --seed gender.js
